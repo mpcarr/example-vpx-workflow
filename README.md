@@ -1,6 +1,6 @@
 # example-vpx-workflow
 
-Alernative approch to scripting in VPX.
+Alternative approach to scripting in VPX.
 
 Dependencies:
 
