@@ -21,7 +21,8 @@ This will start grunt which will watch for file changes and compile the tablescr
 Pros:
 
  - Allows you to separate the vpx scripting from the vpx ide. more
-   control over file structure, easier to maintain. Allows easy source
+   control over file structure, easier to maintain. 
+ - Allows easy source
    control of tablescript.
 
 Cons:
