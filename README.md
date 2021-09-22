@@ -5,8 +5,8 @@ Alternative approach to scripting in VPX.
 
 Dependencies:
 
-Node (https://nodejs.org/en/)
-Grunt (https://gruntjs.com/)
+ - Node (https://nodejs.org/en/)
+ - Grunt (https://gruntjs.com/)
 
 Clone the repository and install the node modules.
 
