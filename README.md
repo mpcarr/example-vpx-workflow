@@ -1,3 +1,4 @@
+
 # example-vpx-workflow
 
 Alternative approach to scripting in VPX.
@@ -19,9 +20,13 @@ This will start grunt which will watch for file changes and compile the tablescr
 
 Pros:
 
-Allows you to separate the vpx scripting from the vpx ide. more control over file structure, easier to maintain.
-Allows easy source control of tablescript.
+ - Allows you to separate the vpx scripting from the vpx ide. more
+   control over file structure, easier to maintain. Allows easy source
+   control of tablescript.
 
 Cons:
 
-Occasionally debugging can be challenging as the line the error is on isn't shown by vpx. This is generally limited to vbs sytanx errors though so not really a big deal. Copying the whole script back into vpx and running the table again will show you where the error is.
+ - Occasionally debugging can be challenging as the line the error is on
+   isn't shown by vpx. This is generally limited to vbs sytanx errors
+   though so not really a big deal. Copying the whole script back into
+   vpx and running the table again will show you where the error is.
